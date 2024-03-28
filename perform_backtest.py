@@ -221,7 +221,7 @@ if (__name__ == "__main__"):
     parameters
     """
 
-    ticks_dir = "C:\\Users\\GD5264\\OneDrive - ENGIE\\Projects\\Mines\\data_ticks"
+    ticks_dir = "C:\\Info\\S2\\ENGIE\\tradesquotes"
 
     # underlying
     under = "TTF-Hi-Cal-51.6-ICE-ENDEX"

@@ -5,7 +5,7 @@ Created on Sun Apr 12 16:26:28 2020
 @author: GD5264
 """
 
-from quantick.isint import isint
+from isint import isint
 
 
 class Exek:

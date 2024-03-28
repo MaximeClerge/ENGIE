@@ -5,7 +5,7 @@ Created on Fri Jun  4 11:38:33 2021
 @author: GD5264
 """
 
-from quantick.hms2ssm import hms2ssm
+from hms2ssm import hms2ssm
 
 
 class StratBasic:

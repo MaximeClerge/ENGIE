@@ -5,8 +5,8 @@ Created on Sun Apr 12 16:26:28 2020
 @author: GD5264
 """
 
-from quantick.isint import isint
-from quantick.ssm2hms import ssm2hms
+from isint import isint
+from ssm2hms import ssm2hms
 
 
 class Order:
